@@ -1,6 +1,6 @@
 body{
 	background-color: #f9f9f9;
-	font-family: "Crimson Text";
+	font-family: "Poppins";
 }
 
 .main{
@@ -8,9 +8,8 @@ body{
 }
 
 .home-description{
-	font-style: italic;
 	font-weight: 600;
-	font-family: "Crimson";
+	font-family: "Poppins";
 	font-size: 19px;
     padding-top: 15px;
     padding-bottom: 25px;
@@ -52,9 +51,9 @@ body{
     	}
 
     	.info{
-			font-family: "Crimson";
+			font-family: "Poppins";
 			line-height: 28px;
-		    font-size: 16px;
+		    font-size: 13px;
 		    padding-top: 15px;
 		    padding-right: 50px;
 		}
@@ -71,12 +70,11 @@ body{
 .btn-rabbit{
 	background-color: #fff;
 	color: #111;
-	font-style: italic;
 	border: 1px solid #111;
 	border-radius: 0px !important;
 	transition: all 0.4s ease-in-out;
 	margin-bottom: 20px;
-	font-family: "Crimson";
+	font-family: "Poppins";
 	font-size: 13px;
 	}
 
@@ -93,18 +91,19 @@ p{
 
 .page-title{
 	text-transform: uppercase;
-	font-family: 'Josefin Sans';
+	font-family: "Poppins";
 }
 
 /*Home Style*/
 .logo{
 	padding-top: 100px;
-	text-transform: uppercase;
+	text-transform: lowercase;
 	font-size: 12px;
 }
 
 .logo h4{
-	font-family: 'Josefin Sans';
+	margin-top: 0px;
+	font-family: 'Poppins';
 }
 
 
@@ -202,7 +201,7 @@ footer{
 
 .submit{
 
-	font-family: "Crimson"
+	font-family: "Crimson";
 	font-size: 16px;
 }
 
@@ -212,7 +211,7 @@ footer{
 	font-size: 20px;
 	color: #3b3b3b;
 	line-height: 28px;
-	font-family: "Crimson";
+	font-family: "Poppins";
 	margin-top: 15px;
 	margin-bottom: 20px;
 	padding-right: 40px;
