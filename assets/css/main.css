@@ -51,10 +51,10 @@ body{
     	}
 
     	.info{
-			font-family: "Poppins";
-			line-height: 28px;
-		    font-size: 13px;
-		    padding-top: 15px;
+				font-family: "Poppins";
+				line-height: 28px;
+		    font-size: 12px;
+		    padding-top: 3px;
 		    padding-right: 50px;
 		}
 		
@@ -86,7 +86,6 @@ body{
 p{
 	color: #585757;
 	font-size: 16px;
-	
 }
 
 .page-title{
@@ -311,4 +310,8 @@ footer{
 }
 .show{
 	display: block;
+}
+
+.work-link {
+	margin: 0;
 }
