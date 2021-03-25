@@ -318,7 +318,10 @@ footer{
 
 .carousel {
 	animation: slide 45s linear infinite;
+	animation-delay: 2s;
 }
+
+.carousel .img-responsive {}
 
 @keyframes slide {
 	0% {
@@ -326,6 +329,6 @@ footer{
 	}
 
 	100% {
-		transform: translate3d(0, -1000px, 0);
+		transform: translate3d(0, -50%, 0);
 	}
 }
