@@ -315,3 +315,17 @@ footer{
 .work-link {
 	margin: 0;
 }
+
+.carousel {
+	animation: slide 45s linear infinite;
+}
+
+@keyframes slide {
+	0% {
+		transform: translate3d(0,0,0);
+	}
+
+	100% {
+		transform: translate3d(0, -1000px, 0);
+	}
+}
